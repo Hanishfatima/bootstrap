@@ -10,5 +10,17 @@
 }
 
 .heading {
-    color: #4CAF4F !important;
+font-family: Inter;
+font-weight: 600;
+font-size: 44.55px;
+line-height: 52.9px;
+letter-spacing: 0%;
+
+
+}
+
+.heading2 
+{
+    position: relative !important;
+    top: 40px !important;
 }
