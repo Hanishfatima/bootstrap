@@ -24,3 +24,7 @@ letter-spacing: 0%;
     position: relative !important;
     top: 40px !important;
 }
+
+.head{
+    font-size: 10px !important;
+}
