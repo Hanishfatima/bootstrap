@@ -34,3 +34,9 @@ letter-spacing: 0%;
     margin-bottom: 0% !important ;
 }*/
 
+.bg-danger,
+.bg-primary {
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: aqua !;
+}
